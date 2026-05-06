@@ -1,6 +1,5 @@
 #Membuat class
 class Mahasiswa:
-    
     # Constructor
     def __init__(self, nama, nilai):
         self.nama = nama
